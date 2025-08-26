@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.aktlondon.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.aktlondon.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.aktlondon.com/collections/all-products.atom"/>
+  <title>AKT London</title>
+  <updated>2025-08-14T16:32:35+01:00</updated>
+  <author>
+    <name>AKT London</name>
+  </author>
+  <entry>
+    <id>https://www.aktlondon.com/products/15513793757566</id>
+    <published>2025-08-14T16:32:35+01:00</published>
+    <updated>2025-08-14T16:32:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-starter-set-hay-fever"/>
+    <title>The Starter Set Hay Fever</title>
+    <s:type></s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/The_Starter_Set_Hay_Fever.webp?v=1755003424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>A hundred years since it first graced the stage, Hay Fever returns — not as a play, but as a performance for the senses -- filled with roses, marmalade, mischief and the occasional dramatic exit, this most English of Limited Run fragrances features in The Starter Set. Inspired by Noël Coward’s infamous comedy of manners, it's your backstage pass to a particularly English kind of summer.</span></p>
+<p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/15513793757566</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-HAYFEVER</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/15346655920510</id>
+    <published>2025-06-03T08:02:31+01:00</published>
+    <updated>2025-06-03T08:02:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-deodorant-balm-hay-fever-50ml"/>
+    <title>The Deodorant Balm Hay Fever</title>
+    <s:type></s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TDB-HAYFEVER-RENDER-IMAGE1.webp?v=1750164648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A hundred years since it first graced the stage, Hay Fever returns — not as a play, but as a performance for the senses. Inspired by Noël Coward’s infamous comedy of manners, this fragrance is your backstage pass to a particularly English kind of summer — filled with roses, marmalade, mischief and the occasional dramatic exit.</p>
+<p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/15346655920510</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>HFTDB-N</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/14990032175486</id>
+    <published>2025-04-15T16:56:15+01:00</published>
+    <updated>2025-04-15T16:56:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-foaming-body-scrub"/>
+    <title>The Foaming Body Scrub</title>
+    <s:type></s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/REFLECTIVE_STUDIO_-_FBS_-_JAR_BOX_LID_SC.01_2552d142-81b7-4f1b-adf8-f98b3822e039.webp?v=1744107632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>The Foaming Body Scrub is for those who crave a deeper, more polished performance with rice and sugar exfoliants, papaya enzymes and nourishing oils — leaving your skin glowing, soft and deserving of a standing ovation.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/14990032175486</id>
+      <title>SC.01 ORANGE GROVE</title>
+      <s:price currency="GBP">44.00</s:price>
+      <s:sku>FBS-SC01-250ML</s:sku>
+      <s:grams>542</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/14990032175486</id>
+      <title>SC.02 AFTER THUNDER</title>
+      <s:price currency="GBP">44.00</s:price>
+      <s:sku>FBS-SC02-250ML</s:sku>
+      <s:grams>542</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/7022793850965</id>
+    <published>2024-10-18T14:40:00+01:00</published>
+    <updated>2024-10-18T14:40:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/akt-london-gift-card"/>
+    <title>AKT London Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_Gift_Card_SC.01_PDP.png?v=1729902232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 100.00
+            <a href="https://www.aktlondon.com/products/akt-london-gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+<div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+<div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+<div class="p-rich_text_block" dir="auto">
+<div class="p-rich_text_section">Give the gift of choice with a Digital Gift Card - no wrapping required! Simply select the amount and forward to the recipient.</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift-card</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7022793850965</id>
+      <title>£25.00</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>AKTGC25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7022793850965</id>
+      <title>£50.00</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku>AKTGC50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7022793850965</id>
+      <title>£75.00</title>
+      <s:price currency="GBP">75.00</s:price>
+      <s:sku>AKTGC75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7022793850965</id>
+      <title>£100.00</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku>AKTGC100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/7018770104405</id>
+    <published>2024-08-16T07:12:20+01:00</published>
+    <updated>2024-08-16T07:12:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-body-conditioning-balm"/>
+    <title>The Body Conditioning Balm</title>
+    <s:type></s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/2024_new_images_BCB_-_SC.01.webp?v=1743776719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>Like a dance class in a bottle – The Body Conditioning Balm FIRMS, TONES and REJUVENATES your skin! With microbiome balancing pre-biotics, hydrating olive squalane and brightening lactic acid to nourish every inch of you</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770104405</id>
+      <title>SC.01 ORANGE GROVE</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BCB-SC01-100ML</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770104405</id>
+      <title>SC.02 AFTER THUNDER</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BCB-SC02-100ML</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770104405</id>
+      <title>SC.03 THE ONSEN</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BCB-SC03-100ML</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770104405</id>
+      <title>SC.04 HALCYON SUMMERS</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BCB-SC04-100ML</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770104405</id>
+      <title>SC.05 COLUMBIA ROAD</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BCB-SC05-100ML</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/7018770333781</id>
+    <published>2024-08-16T07:10:59+01:00</published>
+    <updated>2024-08-16T07:10:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-body-wash-concentrate"/>
+    <title>The Body Wash Concentrate</title>
+    <s:type></s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/2024_new_images_BWC_-_SC.01.webp?v=1743776680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>A stunning triple threat in one highly concentrated body wash! PREPARE, PROTECT and ENRICH your delicate microbiome with SKIN-BALANCING prebiotics, MOISTURE-LOCKING olive squalane and NOURISHING vitamin E. Formulated without added-water to deliver a 3X concentrated formula that activates in your shower. </span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770333781</id>
+      <title>SC.01 ORANGE GROVE</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BWC-SC01-100ML</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770333781</id>
+      <title>SC.02 AFTER THUNDER</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BWC-SC02-100ML</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770333781</id>
+      <title>SC.03 THE ONSEN</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BWC-SC03-100ML</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770333781</id>
+      <title>SC.04 HALCYON SUMMERS</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BWC-SC04-100ML</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7018770333781</id>
+      <title>SC.05 COLUMBIA ROAD</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>BWC-SC05-100ML</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/7019919573077</id>
+    <published>2024-08-16T07:10:43+01:00</published>
+    <updated>2024-08-16T07:10:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-konjac-sponge"/>
+    <title>The Konjac Sponge</title>
+    <s:type></s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/The_Konjac_Sponge_eab76397-5ad4-4cbb-996c-c844c9679338.webp?v=1731681503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unveil your most radiant self with our 100% plant based marvel, The Konjac Sponge! Partner it perfectly with The Body Wash Concentrate for a LUXURIOUS LATHER that gently exfoliates and deeply cleanses your body from neck to toe.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/7019919573077</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">14.00</s:price>
+      <s:sku>KONJAC</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6924445024341</id>
+    <published>2023-10-26T11:17:16+01:00</published>
+    <updated>2023-10-26T11:17:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-deodorant-balm-sc-00"/>
+    <title>The Deodorant Balm SC.00</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TDB-SC.00_NO_NOTES-RENDER-IMAGE_1.webp?v=1748602470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="63e22fd8ef63bd00d96a4205" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-page-id="63e22fd8ef63bd00d96a4205" data-shogun-page-version-id="643d216d588327010a47729f" data-shogun-platform-type="shopify" data-shogun-variant-id="643d216d588327010a4772bd" data-region="main">
+<div id="s-dd0dfbab-df07-4d9d-ae1f-14917736e7fb" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content"></div>
+</div>
+<script type="text/javascript">
+    window.SHOGUN_IMAGE_ELEMENTS = window.SHOGUN_IMAGE_ELEMENTS || new Array();
+    window.SHOGUN_IMAGE_ELEMENTS.push({ hoverImage: '', uuid: 's-41b2885e-6ff0-4559-83a3-23590c084921' })
+  </script>
+<div id="s-3470fc36-a3cb-4121-ac77-53caa166bcb0" class="shg-c">
+<div class="shg-rich-text shg-theme-text-content">
+<p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6924445024341</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>SC00TDB-N</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6968301551701</id>
+    <published>2023-10-12T14:33:08+01:00</published>
+    <updated>2023-10-12T14:33:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-discovery-set"/>
+    <title>The Discovery Set</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/The_Discovery_Set.webp?v=1729902495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<div style="text-align: center;">
+<meta charset="utf-8">
+<p style="text-align: center;">The Discovery Set is your chance to discover which scent is for your favourite. Maybe it's all of them!</p>
+<p style="text-align: center;">Includes 5 x 5ml Mini Deodorant Balm in each fragrance. 1 x 5ml tube = over 7 days worth of product</p>
+<p style="text-align: center;">HOW TO: Snap off the nozzle, turn it round and poke it back in to seal - 100% plastic free!</p>
+</div>
+<ul style="text-align: left;">
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">A unique formula of </span><b>active botanicals</b><span style="font-weight: 400;"> and </span><b>Deo-Barrier Complex™</b><span style="font-weight: 400;"> keeps you feeling dry and confident </span><b>all day long </b><span style="font-weight: 400;">with only</span><b> one application</b>
+</li>
+<li style="font-weight: 400;">
+<strong>Absorbs instantly </strong>and<strong> moisturises skin </strong>with Shea Butter and Calendula Oil</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No Aluminium. Vegan &amp; Cruelty Free</span></li>
+<li style="font-weight: 400;">
+<b>Plastic Free </b><span style="font-weight: 400;">and </span><b>100% recyclable </b><span style="font-weight: 400;">packaging</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>Feet, forehead, chest </strong>- use anywhere you need effective protection.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><strong>No stains.</strong> Love your garments for longer.</span></li>
+<li style="font-weight: 400;">One tube can last up to 3 months on average with recommended daily application</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:ingredients-sc01</s:tag>
+    <s:tag>__tab2:ingredients-4-5</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6968301551701</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">30.00</s:price>
+      <s:sku>DISCOVERY</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6913461583957</id>
+    <published>2023-04-25T11:06:10+01:00</published>
+    <updated>2023-04-25T11:06:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-starter-set"/>
+    <title>The Starter Set</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-SET-STARTER_SC.01-RENDER-IMAGE1.webp?v=1750169377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="635fe7f48a968a00f4d10c35" data-shogun-platform-type="shopify" data-shogun-page-version-id="635fe7f48a968a00f4d10c33" data-shogun-page-id="635fe7f48a968a00f4d10c34" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-id="635fe7f48a968a00f4d10c34" class="shogun-root">
+<div class="shg-c" id="s-a36fc518-73e1-4cd7-acad-600aa3d2f61e">
+<div data-region="main" data-shogun-variant-id="61eea86f00a25b00d4bdf936" data-shogun-platform-type="shopify" data-shogun-page-version-id="61eea86f00a25b00d4bdf934" data-shogun-page-id="61eea86f00a25b00d4bdf935" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-id="61eea86f00a25b00d4bdf935" class="shogun-root">
+<div class="shg-c" id="s-f6b5d49e-3d1c-4965-b9b6-681c03395d5b">
+<p style="text-align: left;">This is AKT. The high performing, award-winning <strong>natural deodorant balm</strong> for life’s leading character. You. Apply a pea-sized amount, like a moisturiser, once a day to clean underarms.<span style="font-weight: 400;"><br></span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6913461583957</id>
+      <title>SC.01 ORANGE GROVE</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-SC01</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6913461583957</id>
+      <title>SC.02 AFTER THUNDER</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-SC02</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6913461583957</id>
+      <title>SC.03 THE ONSEN</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-SC03</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6913461583957</id>
+      <title>SC.04 HALCYON SUMMERS</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-SC04</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6913461583957</id>
+      <title>SC.05 COLUMBIA ROAD</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-SC05</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6913461583957</id>
+      <title>SC.00 NO NOTES</title>
+      <s:price currency="GBP">32.00</s:price>
+      <s:sku>STARTER-SC00</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6863810658389</id>
+    <published>2023-02-03T12:32:09+00:00</published>
+    <updated>2023-02-03T12:32:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/sc04-deodorant-balm"/>
+    <title>The Deodorant Balm SC.04</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/SC.04_Updated.webp?v=1731948506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="6246f1630f01be00c8649dcf" data-shogun-platform-type="shopify" data-shogun-page-version-id="6246f1630f01be00c8649dcd" data-shogun-page-id="6246f1630f01be00c8649dce" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-id="6246f1630f01be00c8649dce" class="shogun-root">
+<div class="shg-c">
+<p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6863810658389</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>SC04TDB-N</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6847376425045</id>
+    <published>2023-01-29T10:23:20+00:00</published>
+    <updated>2023-01-29T10:23:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/sc05-deodorant-balm"/>
+    <title>The Deodorant Balm SC.05</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TDB-SC.05_COLUMBIA_ROAD-RENDER-IMAGE_1.webp?v=1748602448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shogun-root" data-shogun-id="6246f1630f01be00c8649dce" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-page-id="6246f1630f01be00c8649dce" data-shogun-page-version-id="6246f1630f01be00c8649dcd" data-shogun-platform-type="shopify" data-shogun-variant-id="6246f1630f01be00c8649dcf" data-region="main">
+<div id="s-22b0b3e4-5d19-442f-83f9-6b295d96c348" class="shg-c">
+<meta charset="utf-8">
+<p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6847376425045</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>SC05TDB-N</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6632520024149</id>
+    <published>2021-10-25T09:22:26+01:00</published>
+    <updated>2021-10-25T09:22:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/sc-03-the-onsen"/>
+    <title>The Deodorant Balm SC.03</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TDB-SC.03_THE_ONSEN-RENDER-IMAGE_1.webp?v=1748602384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.<br><meta charset="UTF-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6632520024149</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>SC03TDB-N</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6632519401557</id>
+    <published>2021-10-25T09:22:22+01:00</published>
+    <updated>2021-10-25T09:22:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/sc-02-after-thunder"/>
+    <title>The Deodorant Balm SC.02</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TDB-SC.02_AFTER_THUNDER-RENDER-IMAGE_1.webp?v=1748602359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>show-shipping-message</s:tag>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6632519401557</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>SC02TDB-N</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/6632503574613</id>
+    <published>2021-10-25T09:22:18+01:00</published>
+    <updated>2021-10-25T09:22:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/sc01-deodorant-balm"/>
+    <title>The Deodorant Balm SC.01</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TDB-SC.01_ORANGE_GROVE-RENDER-IMAGE_1.webp?v=1748602313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="643d218f05b70800cf514b9e" data-shogun-platform-type="shopify" data-shogun-page-version-id="643d218f05b70800cf514b84" data-shogun-page-id="634fe47b3a656100d3b9e8e3" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-id="634fe47b3a656100d3b9e8e3" class="shogun-root">The Deodorant Balm is a multi-award winning personal performance essential, infused with DEO-BARRIER COMPLEX™ for professional grade protection that lasts all day. Tested and perfected on stage in London’s West End and on Broadway, AKT's revolutionary, aluminium-salts free formula transforms from a luxurious, skin-nourishing balm into a dry, invisible powder: actively protecting, deodorising, and absorbing perspiration to keep you feeling dry and confident – without breaking character. Ever.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/6632503574613</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.00</s:price>
+      <s:sku>SC01TDB-N</s:sku>
+      <s:grams>75</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/4790538666069</id>
+    <published>2020-11-01T03:54:05+00:00</published>
+    <updated>2020-11-01T03:54:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-assistant"/>
+    <title>The Assistant</title>
+    <s:type>Tube Squeezer</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/WEBSITE_-PDP-TOOL-ASSISTANT-RENDER-IMAGE1.webp?v=1750167228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Tube Squeezer<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">It’s time to unlock your senses and maximise the efficacy of your AKT. Enter: The Assistant, coming to the rescue in shining, plastic-free armour. This clever, covetable tool will keep you dry until the very last drop — and adorn your shelf like no other accessory has before. </span><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wrapin</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/4790538666069</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">11.00</s:price>
+      <s:sku>THEASSISTANT</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.aktlondon.com/products/4401293656149</id>
+    <published>2019-11-25T15:54:35+00:00</published>
+    <updated>2019-11-25T15:54:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.aktlondon.com/products/the-applicator"/>
+    <title>The Applicator</title>
+    <s:type>Manual Massage Tools</s:type>
+    <s:vendor>AKT London</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0260/9764/7701/files/The_Applicator_fe8b50b6-f6a9-4f86-84dd-d1c2e6cfe37e.webp?v=1731681503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT London<br>
+        <strong>Type: </strong>Manual Massage Tools<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-region="main" data-shogun-variant-id="635a7e4b53d41d00e74592ff" data-shogun-platform-type="shopify" data-shogun-page-version-id="635a7e4b53d41d00e74592fd" data-shogun-page-id="635a7e4b53d41d00e74592fe" data-shogun-site-id="9253d491-2420-40df-bce1-7ec2682a3bf4" data-shogun-id="635a7e4b53d41d00e74592fe" class="shogun-root">
+<div class="shg-c" id="s-d26ebf2f-b7fe-4197-82b1-d67b884039d5">
+<strong><meta charset="utf-8"></strong>This isn't just an applicator, it's an AKT of self-care. The Applicator is inspired by the Chinese practice of Gua Sha, encouraging lymphatic drainage and micro-circulation around your underarms, chest and neck. It can also help relieve tension, boost immunity and energise your body. One applicator lasts a lifetime and is naturally anti-microbial. <span style="font-weight: 400;"></span>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:how-to-akt-the-applicator</s:tag>
+    <s:tag>__tab2:cautions-the-applicator</s:tag>
+    <s:variant>
+      <id>https://www.aktlondon.com/products/4401293656149</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">26.00</s:price>
+      <s:sku>THEAPPLICATOR</s:sku>
+      <s:grams>146</s:grams>
+    </s:variant>
+  </entry>
+</feed>
